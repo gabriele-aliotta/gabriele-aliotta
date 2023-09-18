@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on **my personal website**<br>🌱 I'm currently learning **ux design**<br>📫 How to reach me: **gabrielealiotta1@gmail.com**</p>
+<p align="left">🔭 I’m currently working on my personal website<br>🌱 I'm currently learning ux design<br>📫 How to reach me gabrielealiotta1@gmail.com</p>
 
 ###
 
@@ -48,9 +48,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.linkedin.com/in/gabriele-aliotta-1b6392181/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.behance.net/gabriele_aliotta" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
+  </a>
+  <a href="https://www.instagram.com/gabriele_aliotta/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -91,5 +97,3 @@
 </div>
 
 ###
-
-
