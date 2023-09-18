@@ -20,4 +20,6 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,ai,ps)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut) (https://github.com/anuraghazra/github-readme-stats) <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriele-aliotta&show_icons=true&locale=en" alt="gabriele-aliotta" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriele-aliotta&show_icons=true&locale=en" alt="gabriele-aliotta" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut) (https://github.com/anuraghazra/github-readme-stats) 
+
