@@ -1,16 +1,13 @@
 <p align=”center”>
-
 ![copertina](https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/af63f4b8-16a4-4910-ae00-c11d01481cfe)
-
-
 </p>
-
 
 - 👋 Hi, I’m @gabriele-aliotta
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning ux design
 - 📫 How to reach me: gabrielealiotta1@gmail.com
-<a href=”https://www.linkedin.com/in/gabriele-aliotta/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin .svg" alt="gabriele-aliotta | LinkedIn” width="21px"/></a>
+
+<a href=”https://www.linkedin.com/in/gabriele-aliotta/"><img align=”left” src=”https://raw.githubusercontent.com/gabriele-aliotta/gabriele-aliotta/main/img/linkedin.svg" alt="gabriele-aliotta | LinkedIn” width="21px"/></a>
 
 - My Skills 👇
 
