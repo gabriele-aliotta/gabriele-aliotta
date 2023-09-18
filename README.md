@@ -33,6 +33,7 @@
 
 <h3 align="center">A passionate designer & frontend developer based in Italy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriele-aliotta&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-aliotta" /> </p>
+
 ###
 
 <h2 align="left">About me</h2>
