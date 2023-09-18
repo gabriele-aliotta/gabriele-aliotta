@@ -1,6 +1,7 @@
 <p align=”center”>
 
-<img width=”200" height=”100" src=”https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/9db2e3b0-9908-4199-a3db-454061e2655d" alt=”my banner”>
+<img width=”200" height=”100" src=”![copertina](https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/1b44ddc0-0955-4d9c-b59d-0d905675cf64)
+" alt=”my banner”>
 
 </p>
 
