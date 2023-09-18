@@ -20,5 +20,5 @@
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,ai,ps)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabriele-aliotta&show_icons=true&locale=en" alt="gabriele-aliotta" /></p>
