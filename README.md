@@ -16,7 +16,7 @@
 <a href="https://www.behance.net/gabriele_aliotta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabriele_aliotta" height="30" width="40" /></a>
 </p>
 
-<h3 align="My Skills</h3> 
+<h3 align="left">My Skills</h3> 
 
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,ai,ps)](https://skillicons.dev)
 
