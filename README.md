@@ -1,5 +1,7 @@
-<p align="center">
-  <img width=”200" Height=”100" src="<?xml version="1.0" encoding="iso-8859-1"?>
+<p align=”center”>
+
+<img width=”200" height=”100" src=”https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/9db2e3b0-9908-4199-a3db-454061e2655d" alt=”my banner”>
+
 </p>
 
 - 👋 Hi, I’m @gabriele-aliotta
