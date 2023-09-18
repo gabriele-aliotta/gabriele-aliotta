@@ -11,9 +11,9 @@
 
 ###
 
-- <p align="left"> 🔭 I’m currently working on **my personal website** </p>
-- <p align="left"> 🌱 I'm currently learning **ux design** </p>
-- <p align="left"> 📫 How to reach me **gabrielealiotta1@gmail.com** </p>
+- <p align="left"> 🔭 I’m currently working on my personal website </p>
+- <p align="left"> 🌱 I'm currently learning ux design </p>
+- <p align="left"> 📫 How to reach me: gabrielealiotta1@gmail.com </p>
 
 ###
 
