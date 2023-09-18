@@ -39,7 +39,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on my personal website<br>🌱 I'm currently learning ux design<br>📫 How to reach me gabrielealiotta1@gmail.com</p>
+<p align="left">🔭 I’m currently working on **my personal website**<br>🌱 I'm currently learning **ux design**<br>📫 How to reach me: **gabrielealiotta1@gmail.com**</p>
 
 ###
 
