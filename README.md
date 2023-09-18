@@ -2,7 +2,7 @@
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning ux design
 - 📫 How to reach me: gabrielealiotta1@gmail.com
-My Skills 👇
+- My Skills 👇
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma" />
