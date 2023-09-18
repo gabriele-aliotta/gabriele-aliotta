@@ -6,6 +6,8 @@
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning ux design
 - 📫 How to reach me: gabrielealiotta1@gmail.com
+<a href=”https://www.linkedin.com/in/gabriele-aliotta/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin .svg" alt="gabriele-aliotta | LinkedIn” width="21px"/></a>
+
 - My Skills 👇
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,vscode,figma,ai,ps)](https://skillicons.dev)
