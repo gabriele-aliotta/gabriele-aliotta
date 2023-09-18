@@ -1,5 +1,8 @@
-![banner](https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/847e9950-41b7-4aab-a03b-f509500a9ed1)
+<p align="center">
+  <img width=”200" Height=”200" src="https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/847e9950-41b7-4aab-a03b-f509500a9ed1" alt="banner">
 
+  ![banner](https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/847e9950-41b7-4aab-a03b-f509500a9ed1)
+</p>
 - 👋 Hi, I’m @gabriele-aliotta
 - 👀 I’m interested in design and coding
 - 🌱 I’m currently learning ux design
