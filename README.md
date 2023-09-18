@@ -1,8 +1,9 @@
 <p align=”center”>
 
-<img width=”200" height=”100" src=”https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/1b44ddc0-0955-4d9c-b59d-0d905675cf64" alt=”my banner”>
+<img width=”200" height=”100" src=”https://github.com/gabriele-aliotta/gabriele-aliotta/assets/129871222/1b44ddc0-0955-4d9c-b59d-0d905675cf64.png" alt=”my banner”>
 
 </p>
+
 
 - 👋 Hi, I’m @gabriele-aliotta
 - 👀 I’m interested in design and coding
