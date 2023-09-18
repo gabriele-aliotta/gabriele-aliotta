@@ -4,7 +4,9 @@
 
 <h3 align="center">A passionate designer & frontend developer based in Italy</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriele-aliotta&label=Profile%20views&color=0e75b6&style=flat" alt="gabriele-aliotta" /> </p>
-
+<div align="left">
+  <img src="https://profile-counter.glitch.me/gabriele-aliotta/count.svg?"  />
+</div>
 ###
 
 <h2 align="left">About me</h2>
@@ -63,9 +65,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gabriele-aliotta/count.svg?"  />
-</div>
+
 
 
 
